@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\phoneGap\\solmusic-v2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
+            "outputFile": "E:\\phoneGap\\solmusic\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "E:\\phoneGap\\solmusic-v2\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "E:\\phoneGap\\solmusic\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "4,2,3",
                         "startColumns": "4,4,4",

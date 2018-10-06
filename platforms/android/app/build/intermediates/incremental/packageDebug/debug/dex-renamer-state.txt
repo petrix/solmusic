@@ -1,0 +1,4 @@
+#Sat Oct 06 12:08:40 EEST 2018
+base.0=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

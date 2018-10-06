@@ -1,4 +1,4 @@
-#Wed Sep 26 14:08:52 EEST 2018
-base.0=E\:\\phoneGap\\solmusic\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0
+#Sat Oct 06 12:09:06 EEST 2018
+base.0=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/transforms/dex/release/0
 renamed.0=classes.dex
-file.0=E\:\\phoneGap\\solmusic\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex
+file.0=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/transforms/dex/release/0/classes.dex

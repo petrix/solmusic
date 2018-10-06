@@ -1,10 +1,32 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\phoneGap\\solmusic\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "/Users/p3xx/Documents/GitHub/solmusic/E:\\phoneGap\\solmusic\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "E:\\phoneGap\\solmusic\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "/Users/p3xx/Documents/GitHub/solmusic/E:\\phoneGap\\solmusic\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "173,55,114",
+                        "endColumns": "63,58,58",
+                        "endOffsets": "232,109,168"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,178",
+                        "endColumns": "63,58,58",
+                        "endOffsets": "114,173,232"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "4,2,3",
                         "startColumns": "4,4,4",

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Oct 06 12:09:06 EEST 2018
+#Tue Oct 09 21:47:14 EEST 2018
 5.base=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/res/release/resources-release.ap_
 42.base=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/res/release/resources-release.ap_
 32.set=ASSET
@@ -17,7 +17,7 @@
 32.base=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/assets/release
 17.set=ASSET
 50.set=ASSET
-4.file=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/drawable-port-xxxhdpi-v4/screen.png
+4.file=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/drawable-land-hdpi-v4/screen.png
 26.base=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/assets/release
 41.file=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/assets/release/www/cordova-js-src/android/promptbasednativeapi.js
 1.set=ANDROID_RESOURCE
@@ -149,7 +149,7 @@ count=60
 2.set=ANDROID_RESOURCE
 40.set=ASSET
 58.set=ANDROID_RESOURCE
-3.file=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/drawable-land-hdpi-v4/screen.png
+3.file=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/res/release/resources-release.ap_/res/drawable-port-xxxhdpi-v4/screen.png
 25.base=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/assets/release
 40.file=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/assets/release/www/fonts/Comfortaa-Bold.ttf
 35.base=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/transforms/dex/release/0

@@ -1,4 +1,4 @@
-#Sat Oct 06 12:09:06 EEST 2018
+#Tue Oct 09 21:47:14 EEST 2018
 base.0=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/transforms/dex/release/0
 renamed.0=classes.dex
 file.0=/Users/p3xx/Documents/GitHub/solmusic/platforms/android/app/build/intermediates/transforms/dex/release/0/classes.dex

@@ -55,7 +55,7 @@ Player.prototype = {
       sound = data.howl;
     } else {
       sound = data.howl = new Howl({
-        src: ['http://radiobratan.tk:8020/solmusic_192.mp3'],
+        src: ['https://bratan.tk/radio/8020/solmusic_192.mp3'],
         html5: true, // Force to HTML5 so that the audio can stream in (best for large files).
         onplay: function() {
           // Display the duration.
